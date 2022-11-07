@@ -1,0 +1,19 @@
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F55A5A;
+  color: #fff;
+
+}
+
+.nav--img{
+  height: 24px;
+}
+
+.nav--header{
+  padding-left: 7px;
+  font-weight: 600;
+  font-size: 14.4px;
+  font-family: 'Inter', sans-serif;
+}
