@@ -20,5 +20,15 @@ export default [
         endDate: "24 Dec, 2005",
         description: "New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the 'Big Easy,' it's known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a melting pot of French, African and American cultures. Embodying its festive spirit is Mardi Gras, the late-winter carnival famed for raucous costumed parades and street parties.",
         coverImg: "newOrleans.jpg"
+    },
+    {
+        id: 3,
+        title: "New Bern",
+        location: "North Carolina",
+        googleMapsUrl: "https://www.google.com/maps/place/New+Bern,+NC/@35.0775974,-77.2151791,11z/data=!3m1!4b1!4m5!3m4!1s0x89a8d06ec57ecbf9:0x7b0e42e4e4e60070!8m2!3d35.108493!4d-77.0441143",
+        startDate: "12 Sept, 2012",
+        endDate: "24 Dec, 2012",
+        description: "New Bern is a riverfront city near the North Carolina coast. The Tryon Palace complex includes a replica of the state's 1st capitol, historic homes, gardens and the North Carolina History Center. The Birthplace of Pepsi is the drugstore where the drink was invented in the 1890s. Nearby, the New Bern Firemen’s Museum highlights the Great Fire of 1922. South, Croatan National Forest has estuaries and diverse wildlife.",
+        coverImg: "newBern.jpg"
     }
 ]

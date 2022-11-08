@@ -4,7 +4,7 @@ nav{
   align-items: center;
   background-color: #F55A5A;
   color: #fff;
-
+  height: 55px;
 }
 
 .nav--img{
@@ -48,7 +48,7 @@ nav{
   max-width: 126px;
   height: 100%;
   border-radius: 5px;
-  padding-right: 5px  ;
+  padding-right: 5px;
 }
 
 
