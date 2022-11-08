@@ -17,3 +17,59 @@ nav{
   font-size: 14.4px;
   font-family: 'Inter', sans-serif;
 }
+
+.card{
+  height: 168px;
+  padding: 40px;
+  display: flex;
+}
+
+.hero{
+  padding-left: 19px;
+}
+
+.location{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card--location,
+.card--link{
+  margin: 0;
+  padding-bottom: 4px;
+}
+
+.card--location{
+  padding-right: 12px;
+}
+
+.card--img{
+  max-width: 126px;
+  height: 100%;
+  border-radius: 5px;
+  padding-right: 5px  ;
+}
+
+
+
+.card--title{
+  font-weight: 700;
+  font-size: 25px;
+  color: #2B283A;
+  margin: 0;
+}
+
+.card--dates{
+  font-weight: 700;
+  font-size: 10.24px;
+  margin: 0;
+}
+
+.card-desc{
+  font-weight: 400;
+  font-size: 10.24px;
+  padding-top: 9px;
+}
+
+
